@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Soy Richard</h1>
-<h5 align="center">Me encanta la programación y lo utilizo de momento para aplicarlo a mis propios proyectos que ire subiendo.</h5>
+<h5 align="center">Me encanta la programación y lo utilizo de momento para aplicarlo en mis propios proyectos que ire desarrollando y subiendo.</h5>
 
 <p align="left"> <a href="https://twitter.com/richardtransmix" target="blank"><img src="https://img.shields.io/twitter/follow/richardtransmix?logo=twitter&style=for-the-badge" alt="richardtransmix" /></a> </p>
 
-- 🌱 Actualmente estoy Aprendiendo **Nextjs, Platzi, Codigo Facilito**
+- 🌱 Actualmente estoy Aprendiendo programacion en Paginas oficiales y **Youtube, Platzi, Codigo Facilito**
 
 - 📫 How to reach me **richard.transmix@gmail.com**
 
