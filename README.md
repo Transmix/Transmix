@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/richardtransmix" target="blank"><img src="https://img.shields.io/twitter/follow/richardtransmix?logo=twitter&style=for-the-badge" alt="richardtransmix" /></a> </p>
 
-- 🌱Actualmente estoy Aprendiendo programación y mi primera fuente de aprendizaje son las paginas oficiales de las librerías y los frameworks que utilizo, adicionalmente para obtener unas bases mas solidas me sumerjo en mundo de los videos educativos. En plataformas como **Youtube, Platzi, Código Facilito y Udemy ** que ofrecen un buen contenido de calidad y tutoriales especializados en diferentes areas de programación.
+- 🌱Actualmente estoy Aprendiendo programación y mi primera fuente de aprendizaje son las paginas oficiales de las librerías y los frameworks que utilizo, adicionalmente para obtener unas bases mas solidas me sumerjo en el mundo de los videos educativos. En plataformas como **Youtube, Platzi, Código Facilito, Udemy, Fernando Herrera, Midudev, Mouredev, Hector de Leon y Hola mundo ** que ofrecen un buen contenido de calidad y tutoriales especializados en diferentes areas de programación.
 
 - 📫 Como llegar a mi **richard.transmix@gmail.com**
 
