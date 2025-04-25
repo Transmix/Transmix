@@ -3,7 +3,7 @@
 <img src="./documentation.png" />
 </div>
 
-Soy Tecnico Especialista en Transmisiones Automaticas, CVT, DSG, ZF, etc. Direcciones Hidraulicas, Electricas,en ocasiones tambien hago trabajos de Mecanica en General y resuelvo problemas con Módulos de TCM, PCM, red CAN entre otros problemas eléctricos que en ocasiones se presentan, atiendo la gran mayoría de marcas de vehiculos.
+Soy Tecnico Especialista en Transmisiones Automaticas, CVT, DSG, ZF, etc. Direcciones Hidraulicas, Electricas y en ocasiones tambien hago trabajos de Mecanica en General, resuelvo problemas con Módulos de TCM, PCM, red CAN entre otros problemas eléctricos que en ocasiones se presentan y atiendo la gran mayoría de marcas de vehiculos.
 
 Tengo en el ramo 🚗Automotriz en la especialidad de ⚙️Transmisiones Automaticas 25 años, siempre en mi adolecencia me intereso la 💡Electricidad, Electronica, y aprendio sobre esos temas, ya a los 19 años empecé aprender mas del ramo automotriz poco a poco primero con el funcionamiento de todos los sensores, lectura de diagramas luego a realizar diagnósticos con tablaS de diagnostico lleve cursos de tuneos, redes CAN, alarmas, Inmovilizadores eso alrededor 2004 hasta 2007 años después me pase a las ventas de partes de transmisiones automaticas y direcciones Hidraulicas estuve ahi como  10 años, cabe mencionar que mientras estuve en las ventas nunca deje de estudiarlas transmisiones automaticas leia Hidráulica, leia mucho sobre boletines técnicos sobre solución de fallos y diferencias entre transmisiones siempre me ha gustado la lectura, ya después en el 2012 re ingrese a la parte tecnica ya de forma mas permanente en la Reparaciones de Transmisiones Automaticas, Direcciones Hidraulicas  eso ya hace ya 13 años. 
 
