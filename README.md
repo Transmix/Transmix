@@ -3,7 +3,7 @@
 <img src="./documentation.png" />
 </div>
 
-Soy Tecnico Especialista en Transmisiones Automaticas, Direcciones Hidraulicas, Electricas, en ocasiones tambien hago trabajos de Mecanica en General y resuelvo problemas con Módulos de TCM, PCM, red CAN entre otros problemas eléctricos que en ocasiones se presentan y veo todas las marcas de vehiculos, tambien me gusta aprender programación para aplicarlo en mis propios proyectos que estoy desarrollando. El porque de Transmix es una idea que estoy desarrollando el cual espero darle ya un sentido en este año 2025 para terminarlo para el 2026 es uno de los proyectos que tengo e iré puliendo este año.
+Soy Tecnico Especialista en Transmisiones Automaticas, CVT, DSG, ZF, etc. Direcciones Hidraulicas, Electricas, en ocasiones tambien hago trabajos de Mecanica en General y resuelvo problemas con Módulos de TCM, PCM, red CAN entre otros problemas eléctricos que en ocasiones se presentan, atiendo la gran mayoria de marcas de vehiculos, otros de mis gustos es aprender programación en especial para aplicarlo en mis propios proyectos que estoy desarrollando. El porque de Transmix es una idea que estoy desarrollando el cual espero darle ya un sentido en este año 2025 para terminarlo para el 2026 es uno de los proyectos que tengo e iré puliendo este año.
 
 Les platicare un poco de mi.
 
