@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy Richard de Transmix</h1>
 
-<img align="center" src="/documentation.png">
+<img align="center" src="/documentation.png"/>
 
 Soy Tecnico Especialista en Transmisiones Automaticas, Direcciones Hidraulicas, Electricas, en ocasiones tambien hago trabajos de Mecanica en General y resuelvo problemas con Módulos de TCM, PCM, red CAN entre otros problemas eléctricos que en ocasiones se presentan y veo todas las marcas de vehiculos, tambien me gusta aprender programación para aplicarlo en mis propios proyectos que estoy desarrollando. El porque de Transmix es una idea que estoy desarrollando el cual espero darle ya un sentido en este año 2025 para terminarlo para el 2026 es uno de los proyectos que tengo e iré puliendo este año.
 
